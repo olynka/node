@@ -1,2 +1,2 @@
-const data = new Date();
-console.log(`today is ${data.getFullYear()}`);
+
+console.log("Hi Ella, welcome to our project ");
